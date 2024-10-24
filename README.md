@@ -1,6 +1,7 @@
 # Profit-Analyst-Superstore
 
 **BACKGROUND**
+
 This interactive dashboard is intended for management to monitor performance and analyze SuperStore revenue over time, as well as by product category, geography, and consumer segmentation.
 In addition, this dashboard is also intended to provide insight in making strategic decisions to increase SuperStore revenue.
 
